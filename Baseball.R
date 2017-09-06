@@ -1,7 +1,4 @@
-title: "SQL2"
-output: html_document
-
-#Baseball Statistics
+Baseball Statistics
 
 Find all instances where the Yankees have hit fourty or more homeruns.
 
